@@ -1,4 +1,4 @@
-# PrivacyPolicy
+# Privacy Policy
 To The Ground: privacy policy
 
 Welcome to the To the ground app for Android!

@@ -14,4 +14,4 @@ If you find any security vulnerability that has been inadvertently caused by me,
 Yours sincerely,
 HARBINGER.
 Beijing, China.
-sh@772192594@gmail.com
+sh772192594@gmail.com
